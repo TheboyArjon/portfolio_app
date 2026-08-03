@@ -69,7 +69,7 @@ assets/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/portfolio_app.git
+git clone https://github.com/TheboyArjon/portfolio_app.git
 ```
 
 ### Navigate to the project
